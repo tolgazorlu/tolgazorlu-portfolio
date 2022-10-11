@@ -7,8 +7,6 @@
     width: 100%;
   }
 
-// SCROLLBAR
-
 /* width */
 ::-webkit-scrollbar {
     width: 10px;
@@ -28,4 +26,3 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #080808; 
   }
-  
