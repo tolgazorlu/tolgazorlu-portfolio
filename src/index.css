@@ -9,6 +9,7 @@
 
 body{
   background-color: #080808;
+  background-image: url("./assets/stars.png");
+  background-repeat: repeat-y;
   font-family: 'Silkscreen', cursive;
-
 }
