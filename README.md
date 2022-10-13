@@ -2,6 +2,8 @@
 
 <a href="https://lovely-kangaroo-78ae25.netlify.app">https://lovely-kangaroo-78ae25.netlify.app</a>
 
+![](https://github.com/tolgazorlu/tolgazorlu-portfolio/blob/main/portfolio.gif)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
