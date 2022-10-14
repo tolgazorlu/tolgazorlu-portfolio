@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<a href="https://lovely-kangaroo-78ae25.netlify.app">https://lovely-kangaroo-78ae25.netlify.app</a>
+You can visit my website :) : <a href="https://lovely-kangaroo-78ae25.netlify.app">https://lovely-kangaroo-78ae25.netlify.app</a>
 
 ![](https://github.com/tolgazorlu/tolgazorlu-portfolio/blob/main/portfolio.gif)
 
